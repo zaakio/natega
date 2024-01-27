@@ -656,17 +656,17 @@ function changeLink() {
         //----------------------
 
         td16.textContent = 'الاحياء';
-        td17.textContent = '15.2 / 20';
+        td17.textContent = '25.2 / 30';
         td18.textContent = 'جيد جدا';
         //--------------------------
 
         td19.textContent = 'الكيمياء';
-        td20.textContent = '15.3 / 20';
+        td20.textContent = '25.3 / 30';
         td21.textContent = 'جيد';
         //-------------------------
 
         td22.textContent = 'الفيزياء';
-        td23.textContent = '16.5 / 20';
+        td23.textContent = '26.5 / 30';
         td24.textContent = 'ممتاز';
 
         //--------------------------
@@ -811,17 +811,17 @@ function changeLink() {
         //----------------------
 
         td16.textContent = 'الاحياء';
-        td17.textContent = '18.2 / 20';
+        td17.textContent = '28.2 / 30';
         td18.textContent = 'ممتاز';
         //--------------------------
 
         td19.textContent = 'الكيمياء';
-        td20.textContent = '16.3 / 20';
+        td20.textContent = '22.3 / 30';
         td21.textContent = 'جيد';
         //-------------------------
 
         td22.textContent = 'الفيزياء';
-        td23.textContent = '17.5 / 20';
+        td23.textContent = '27.5 / 30';
         td24.textContent = 'ممتاز';
 
         //--------------------------
@@ -966,17 +966,17 @@ function changeLink() {
         //----------------------
 
         td16.textContent = 'الاحياء';
-        td17.textContent = '18.2 / 20';
+        td17.textContent = '28.2 / 30';
         td18.textContent = 'ممتاز';
         //--------------------------
 
         td19.textContent = 'الكيمياء';
-        td20.textContent = '14.3 / 20';
+        td20.textContent = '24.3 / 30';
         td21.textContent = 'جيد';
         //-------------------------
 
         td22.textContent = 'الفيزياء';
-        td23.textContent = '17.5 / 20';
+        td23.textContent = '27.5 / 30';
         td24.textContent = 'ممتاز';
 
         //--------------------------
@@ -1121,17 +1121,17 @@ function changeLink() {
         //----------------------
 
         td16.textContent = 'الاحياء';
-        td17.textContent = '18.2 / 20';
+        td17.textContent = '28.2 / 30';
         td18.textContent = 'ممتاز';
         //--------------------------
 
         td19.textContent = 'الكيمياء';
-        td20.textContent = '14.3 / 20';
+        td20.textContent = '24.3 / 30';
         td21.textContent = 'جيد';
         //-------------------------
 
         td22.textContent = 'الفيزياء';
-        td23.textContent = '17.5 / 20';
+        td23.textContent = '27.5 / 30';
         td24.textContent = 'ممتاز';
 
         //--------------------------
@@ -1276,17 +1276,17 @@ function changeLink() {
         //----------------------
 
         td16.textContent = 'الاحياء';
-        td17.textContent = '18.2 / 20';
+        td17.textContent = '28.2 / 30';
         td18.textContent = 'ممتاز';
         //--------------------------
 
         td19.textContent = 'الكيمياء';
-        td20.textContent = '14.3 / 20';
+        td20.textContent = '24.3 / 30';
         td21.textContent = 'جيد';
         //-------------------------
 
         td22.textContent = 'الفيزياء';
-        td23.textContent = '17.5 / 20';
+        td23.textContent = '27.5 / 30';
         td24.textContent = 'ممتاز';
 
         //--------------------------
@@ -1431,17 +1431,17 @@ function changeLink() {
         //----------------------
 
         td16.textContent = 'الاحياء';
-        td17.textContent = '15.2 / 20';
+        td17.textContent = '25.2 / 30';
         td18.textContent = 'جيد جدا';
         //--------------------------
 
         td19.textContent = 'الكيمياء';
-        td20.textContent = '14.3 / 20';
+        td20.textContent = '24.3 / 30';
         td21.textContent = 'جيد';
         //-------------------------
 
         td22.textContent = 'الفيزياء';
-        td23.textContent = '17.5 / 20';
+        td23.textContent = '27.5 / 30';
         td24.textContent = 'ممتاز';
 
         //--------------------------
@@ -1586,17 +1586,17 @@ function changeLink() {
         //----------------------
 
         td16.textContent = 'الاحياء';
-        td17.textContent = '18.2 / 20';
+        td17.textContent = '28.2 / 30';
         td18.textContent = 'ممتاز';
         //--------------------------
 
         td19.textContent = 'الكيمياء';
-        td20.textContent = '19.3 / 20';
+        td20.textContent = '29.3 / 30';
         td21.textContent = 'ممتاز';
         //-------------------------
 
         td22.textContent = 'الفيزياء';
-        td23.textContent = '17.5 / 20';
+        td23.textContent = '27.5 / 30';
         td24.textContent = 'ممتاز';
 
         //--------------------------
@@ -1741,17 +1741,17 @@ function changeLink() {
         //----------------------
 
         td16.textContent = 'الاحياء';
-        td17.textContent = '18.2 / 20';
+        td17.textContent = '28.2 / 30';
         td18.textContent = 'ممتاز';
         //--------------------------
 
         td19.textContent = 'الكيمياء';
-        td20.textContent = '14.3 / 20';
+        td20.textContent = '24.3 / 30';
         td21.textContent = 'جيد';
         //-------------------------
 
         td22.textContent = 'الفيزياء';
-        td23.textContent = '17.5 / 20';
+        td23.textContent = '27.5 / 30';
         td24.textContent = 'ممتاز';
 
         //--------------------------
@@ -1896,17 +1896,17 @@ function changeLink() {
         //----------------------
 
         td16.textContent = 'الاحياء';
-        td17.textContent = '15.6 / 20';
+        td17.textContent = '25.6 / 30';
         td18.textContent = 'جيد  جدا';
         //--------------------------
 
         td19.textContent = 'الكيمياء';
-        td20.textContent = '18.2 / 20';
+        td20.textContent = '28.2 / 30';
         td21.textContent = 'ممتاز';
         //-------------------------
 
         td22.textContent = 'الفيزياء';
-        td23.textContent = '17.5 / 20';
+        td23.textContent = '27.5 / 30';
         td24.textContent = 'ممتااز';
 
         //--------------------------
@@ -2051,17 +2051,17 @@ function changeLink() {
     //----------------------
 
     td16.textContent = 'الاحياء';
-    td17.textContent = '16.2 / 20 ';
+    td17.textContent = '26.2 / 30 ';
     td18.textContent = 'جيد جدا';
     //--------------------------
 
     td19.textContent = 'الكيمياء';
-    td20.textContent = '18.2 / 20';
+    td20.textContent = '28.2 / 30';
     td21.textContent = 'ممتاز';
     //-------------------------
 
     td22.textContent = 'الفيزياء';
-    td23.textContent = '14.3 / 20';
+    td23.textContent = '24.3 / 30';
     td24.textContent = 'جيد';
 
     //--------------------------
@@ -2206,17 +2206,17 @@ function changeLink() {
     //----------------------
 
     td16.textContent = 'الاحياء';
-    td17.textContent = '16.2 / 20 ';
+    td17.textContent = '26.2 / 30 ';
     td18.textContent = 'جيد جدا';
     //--------------------------
 
     td19.textContent = 'الكيمياء';
-    td20.textContent = '18.2 / 20';
+    td20.textContent = '28.2 / 30';
     td21.textContent = 'ممتاز';
     //-------------------------
 
     td22.textContent = 'الفيزياء';
-    td23.textContent = '14.3 / 20';
+    td23.textContent = '24.3 / 30';
     td24.textContent = 'جيد';
 
     //--------------------------
@@ -2361,17 +2361,17 @@ if (nationalIdInput.value === '45815') {
     //----------------------
 
     td16.textContent = 'الاحياء';
-    td17.textContent = '16.2 / 20 ';
+    td17.textContent = '26.2 / 30 ';
     td18.textContent = 'جيد جدا';
     //--------------------------
 
     td19.textContent = 'الكيمياء';
-    td20.textContent = '18.2 / 20';
+    td20.textContent = '28.2 / 30';
     td21.textContent = 'ممتاز';
     //-------------------------
 
     td22.textContent = 'الفيزياء';
-    td23.textContent = '18.3 / 20';
+    td23.textContent = '28.3 / 30';
     td24.textContent = 'ممتاز';
 
     //--------------------------
@@ -2516,17 +2516,17 @@ if (nationalIdInput.value === '45816') {
     //----------------------
 
     td16.textContent = 'الاحياء';
-    td17.textContent = '16.2 / 20 ';
+    td17.textContent = '26.2 / 30 ';
     td18.textContent = 'جيد جدا';
     //--------------------------
 
     td19.textContent = 'الكيمياء';
-    td20.textContent = '18.2 / 20';
+    td20.textContent = '28.2 / 30';
     td21.textContent = 'ممتاز';
     //-------------------------
 
     td22.textContent = 'الفيزياء';
-    td23.textContent = '14.3 / 20';
+    td23.textContent = '24.3 / 30';
     td24.textContent = 'جيد';
 
     //--------------------------
@@ -2671,17 +2671,17 @@ if (nationalIdInput.value === '45817') {
     //----------------------
 
     td16.textContent = 'الاحياء';
-    td17.textContent = '16.2 / 20 ';
+    td17.textContent = '26.2 / 30 ';
     td18.textContent = 'جيد جدا';
     //--------------------------
 
     td19.textContent = 'الكيمياء';
-    td20.textContent = '18.2 / 20';
+    td20.textContent = '28.2 / 30';
     td21.textContent = 'ممتاز';
     //-------------------------
 
     td22.textContent = 'الفيزياء';
-    td23.textContent = '14.3 / 20';
+    td23.textContent = '24.3 / 30';
     td24.textContent = 'جيد';
 
     //--------------------------
@@ -2826,17 +2826,17 @@ if (nationalIdInput.value === '45818') {
     //----------------------
 
     td16.textContent = 'الاحياء';
-    td17.textContent = '16.2 / 20 ';
+    td17.textContent = '26.2 / 30 ';
     td18.textContent = 'جيد جدا';
     //--------------------------
 
     td19.textContent = 'الكيمياء';
-    td20.textContent = '18.2 / 20';
+    td20.textContent = '28.2 / 30';
     td21.textContent = 'ممتاز';
     //-------------------------
 
     td22.textContent = 'الفيزياء';
-    td23.textContent = '14.3 / 20';
+    td23.textContent = '24.3 / 30';
     td24.textContent = 'جيد';
 
     //--------------------------
@@ -2981,17 +2981,17 @@ if (nationalIdInput.value === '45819') {
     //----------------------
 
     td16.textContent = 'الاحياء';
-    td17.textContent = '16.2 / 20 ';
+    td17.textContent = '26.2 / 30 ';
     td18.textContent = 'جيد جدا';
     //--------------------------
 
     td19.textContent = 'الكيمياء';
-    td20.textContent = '18.2 / 20';
+    td20.textContent = '28.2 / 30';
     td21.textContent = 'ممتاز';
     //-------------------------
 
     td22.textContent = 'الفيزياء';
-    td23.textContent = '14.3 / 20';
+    td23.textContent = '24.3 / 30';
     td24.textContent = 'جيد';
 
     //--------------------------
@@ -3136,17 +3136,17 @@ if (nationalIdInput.value === '45820') {
     //----------------------
 
     td16.textContent = 'الاحياء';
-    td17.textContent = '16.2 / 20 ';
+    td17.textContent = '26.2 / 30 ';
     td18.textContent = 'جيد جدا';
     //--------------------------
 
     td19.textContent = 'الكيمياء';
-    td20.textContent = '18.2 / 20';
+    td20.textContent = '28.2 / 30';
     td21.textContent = 'ممتاز';
     //-------------------------
 
     td22.textContent = 'الفيزياء';
-    td23.textContent = '14.3 / 20';
+    td23.textContent = '24.3 / 30';
     td24.textContent = 'جيد';
 
     //--------------------------
@@ -3291,17 +3291,17 @@ if (nationalIdInput.value === '45821') {
     //----------------------
 
     td16.textContent = 'الاحياء';
-    td17.textContent = '16.2 / 20 ';
+    td17.textContent = '26.2 / 30 ';
     td18.textContent = 'جيد جدا';
     //--------------------------
 
     td19.textContent = 'الكيمياء';
-    td20.textContent = '18.2 / 20';
+    td20.textContent = '28.2 / 30';
     td21.textContent = 'ممتاز';
     //-------------------------
 
     td22.textContent = 'الفيزياء';
-    td23.textContent = '14.3 / 20';
+    td23.textContent = '24.3 / 30';
     td24.textContent = 'جيد';
 
     //--------------------------
@@ -3446,17 +3446,17 @@ if (nationalIdInput.value === '45822') {
     //----------------------
 
     td16.textContent = 'الاحياء';
-    td17.textContent = '16.2 / 20 ';
+    td17.textContent = '26.2 / 30 ';
     td18.textContent = 'جيد جدا';
     //--------------------------
 
     td19.textContent = 'الكيمياء';
-    td20.textContent = '18.2 / 20';
+    td20.textContent = '28.2 / 30';
     td21.textContent = 'ممتاز';
     //-------------------------
 
     td22.textContent = 'الفيزياء';
-    td23.textContent = '14.3 / 20';
+    td23.textContent = '24.3 / 30';
     td24.textContent = 'جيد';
 
     //--------------------------
